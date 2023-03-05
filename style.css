@@ -1,0 +1,34 @@
+body{
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.nav-color{
+    background-color: #0065c3 !important;
+}
+.li-color{
+    color: aliceblue;
+}
+.buy-btn{
+    border-radius: 25px;
+    background-color: aliceblue;
+    color: #0065c3;
+}
+.first-div{
+    position: relative;
+    display: flex;
+    height:100%;
+    background-color: black;
+}
+.sec-pic{
+    position: absolute;
+    bottom: 372px;
+    left: 432px;
+}
+.third-pic{
+    margin-top: 130px;
+}
+.first-vid{
+    position: absolute;
+    right: 402px;
+    bottom:0.1px;
+}
+
