@@ -1,34 +1,49 @@
-body{
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif
 }
-.nav-color{
+
+.nav-color {
     background-color: #0065c3 !important;
 }
-.li-color{
+
+.li-color {
     color: aliceblue;
 }
-.buy-btn{
+
+.buy-btn {
     border-radius: 25px;
     background-color: aliceblue;
     color: #0065c3;
 }
-.first-div{
+
+.first-div {
     position: relative;
     display: flex;
-    height:100%;
+    height: 100%;
     background-color: black;
 }
-.sec-pic{
+
+.sec-pic {
     position: absolute;
     bottom: 372px;
     left: 432px;
 }
-.third-pic{
+
+.third-pic {
     margin-top: 130px;
 }
-.first-vid{
+
+.first-vid {
     position: absolute;
     right: 402px;
-    bottom:0.1px;
+    bottom: 0.1px;
 }
 
+.secound-div {
+    position: absolute;
+    width: 100%;
+    background-color: #265abb;
+    text-align: right;
+    justify-content: right;
+    display: flex;
+}
